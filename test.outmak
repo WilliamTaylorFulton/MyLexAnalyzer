@@ -1,0 +1,248 @@
+lexeme: ||, length: 1, token: 6000, line=2
+   ERROR: unknown token
+lexeme: ||, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |A|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |b|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |1|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |2|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |3|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |(|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |"|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |h|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |e|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |l|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |l|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |o|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |w|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |o|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |r|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |l|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |d|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |"|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |)|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |@|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |3|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |2|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |1|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |a|, length: 1, token: 6000, line=3
+   ERROR: unknown token
+lexeme: |b|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |
+|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |f|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |o|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |r|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |e|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |v|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |e|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |r|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |s|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |e|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |t|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |i|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |n|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |t|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |<|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |<|, length: 1, token: 6000, line=4
+   ERROR: unknown token
+lexeme: |>|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |
+|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |\|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |/|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |$|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |s|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |e|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |t|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |.|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |7|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |s|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |e|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |t|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |t|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |i|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |n|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |g|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |s|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |e|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |t|, length: 1, token: 6000, line=5
+   ERROR: unknown token
+lexeme: |;|, length: 1, token: 6000, line=6
+   ERROR: unknown token
+lexeme: |
+|, length: 1, token: 6000, line=6
+   ERROR: unknown token
+lexeme: ||, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |f|, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |l|, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |o|, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |a|, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |t|, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |1|, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |2|, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |.|, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |3|, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |4|, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |i|, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |n|, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |t|, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |2|, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |3|, length: 1, token: 6000, line=7
+   ERROR: unknown token
+lexeme: |4|, length: 1, token: 6000, line=8
+   ERROR: unknown token
+lexeme: |
+|, length: 1, token: 6000, line=8
+   ERROR: unknown token
+lexeme: |s|, length: 1, token: 6000, line=8
+   ERROR: unknown token
+lexeme: |t|, length: 1, token: 6000, line=8
+   ERROR: unknown token
+lexeme: |r|, length: 1, token: 6000, line=8
+   ERROR: unknown token
+lexeme: |i|, length: 1, token: 6000, line=8
+   ERROR: unknown token
+lexeme: |n|, length: 1, token: 6000, line=8
+   ERROR: unknown token
+lexeme: |g|, length: 1, token: 6000, line=8
+   ERROR: unknown token
+lexeme: |o|, length: 1, token: 6000, line=8
+   ERROR: unknown token
+lexeme: |r|, length: 1, token: 6000, line=8
+   ERROR: unknown token
+lexeme: |&|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |
+|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |"|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |I|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |'|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |m|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |a|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |s|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |t|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |r|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |i|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |n|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |g|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |,|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |I|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |'|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |m|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |a|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |l|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |s|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |o|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |a|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |s|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |t|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |r|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |i|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |n|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |g|, length: 1, token: 6000, line=9
+   ERROR: unknown token
+lexeme: |"|, length: 1, token: 6000, line=10
+   ERROR: unknown token
+lexeme: |
+|, length: 1, token: 6000, line=10
+   ERROR: unknown token
